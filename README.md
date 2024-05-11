@@ -1,5 +1,6 @@
 # 2D-Lidar-Aided-Depth-Estimation
 
+![Depth Estimation Visualization](/fbd.png)
 
 ## Overview
 Estimating depth using an RGB image from a single frame, without knowing the camera parameters, can be very challenging. However, what if we could enhance this estimation with precise additional information from a 2D LiDAR?
