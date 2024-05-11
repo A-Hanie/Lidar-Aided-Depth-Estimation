@@ -1,4 +1,4 @@
-# Lidar-Aided-Depth-Estimation
+# 2D-Lidar-Aided-Depth-Estimation
 
 
 ## Overview
